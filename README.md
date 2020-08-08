@@ -1,8 +1,13 @@
 ## Hello there, I'm Gabriel Ferreira 🌏
 
+
+
 ### 💬 About
 
 I am passionate about technologies, always looking for new opportunities. I love to learn new concepts, and lately I've been focusing on Node, React JS and React Native.
+
+
+
 
 ### ❤️
 
@@ -12,6 +17,9 @@ I am passionate about technologies, always looking for new opportunities. I love
 ⭐️ React Native
 
 Here on github you can see all projects I builded.
+
+
+
 
 ### 🔭 Reach me
 
