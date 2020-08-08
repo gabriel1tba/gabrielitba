@@ -6,9 +6,9 @@
 
 I am passionate about technologies, always looking for new opportunities. I love to learn new concepts, and lately I've been focusing on Node, React JS and React Native.
 
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 ### ❤️ Preferred Technologies
 
 ⭐️ JavaScript/TypeScript
@@ -19,7 +19,9 @@ I am passionate about technologies, always looking for new opportunities. I love
 
 ⭐️ React Native
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 ### 🔭 Reach me
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-ferreira-2801691a1)](https://linkedin.com/in/gabriel-ferreira-2801691a1)
