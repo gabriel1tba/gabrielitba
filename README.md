@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello there, I'm Gabriel Ferreira 🌏
 
-<!--
-**bielJS/bielJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 About
 
-Here are some ideas to get you started:
+I am passionate about technologies, always looking for new opportunities. I love to learn new concepts, and lately I've been focusing on Node, React JS and React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❤️
+
+⭐️ JavaScript/TypeScript
+⭐️ Node.js
+⭐️ ReactJS
+⭐️ React Native
+
+Here on github you can see all projects I builded.
+
+### 🔭 Reach me
+
+[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-ferreira-2801691a1)](https://linkedin.com/in/gabriel-ferreira-2801691a1)
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Agabriel.ferreira.itba%40gmail.com)](mailto:gabriel.ferreira.itba@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fgabriel.itba)](https://instagram.com/gabriel.itba)
