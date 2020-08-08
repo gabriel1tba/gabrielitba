@@ -6,15 +6,15 @@
 
 &nbsp;
 &nbsp;
-### ❤️ Preferred Technologies
+### ⭐️ Preferred Technologies
 
-⭐️ JavaScript/TypeScript
+📍 JavaScript/TypeScript
 
-⭐️ Node.js
+📍 Node.js
 
-⭐️ ReactJS
+📍 ReactJS
 
-⭐️ React Native
+📍 React Native
 
 &nbsp;
 ### 🔭 Reach me
