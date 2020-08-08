@@ -4,8 +4,6 @@
 ### 💬 About
 
 &nbsp;
-&nbsp;
-&nbsp;
 I am passionate about technologies, always looking for new opportunities. I love to learn new concepts, and lately I've been focusing on Node, React JS and React Native.
 
 &nbsp;
@@ -21,7 +19,6 @@ I am passionate about technologies, always looking for new opportunities. I love
 
 ⭐️ React Native
 
-&nbsp;
 &nbsp;
 ### 🔭 Reach me
 
