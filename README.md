@@ -9,7 +9,7 @@ I am passionate about technologies, always looking for new opportunities. I love
 
 
 
-### ❤️
+### ❤️ Preferred Technologies
 
 ⭐️ JavaScript/TypeScript
 
@@ -18,11 +18,6 @@ I am passionate about technologies, always looking for new opportunities. I love
 ⭐️ ReactJS
 
 ⭐️ React Native
-
-
-Here on github you can see all projects I builded.
-
-
 
 
 ### 🔭 Reach me
