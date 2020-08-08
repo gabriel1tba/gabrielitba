@@ -1,8 +1,6 @@
 ## Hello there, I'm Gabriel Ferreira 🌏
 
 &nbsp;
-&nbsp;
-&nbsp;
 ### 💬 About
 
 &nbsp;
@@ -23,7 +21,6 @@ I am passionate about technologies, always looking for new opportunities. I love
 
 ⭐️ React Native
 
-&nbsp;
 &nbsp;
 &nbsp;
 ### 🔭 Reach me
