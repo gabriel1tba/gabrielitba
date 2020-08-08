@@ -8,7 +8,6 @@
 &nbsp;
 ### ❤️ Preferred Technologies
 
-&nbsp;
 ⭐️ JavaScript/TypeScript
 
 ⭐️ Node.js
