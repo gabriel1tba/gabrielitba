@@ -12,9 +12,13 @@ I am passionate about technologies, always looking for new opportunities. I love
 ### ❤️
 
 ⭐️ JavaScript/TypeScript
+
 ⭐️ Node.js
+
 ⭐️ ReactJS
+
 ⭐️ React Native
+
 
 Here on github you can see all projects I builded.
 
