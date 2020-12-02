@@ -2,7 +2,6 @@
 
 ### 💬 About
 
-&nbsp;
 Currently working as a frontend developer. I am passionate about technologies, always looking for new opportunities. I love learning new concepts and lately I've been focusing on Node, React JS and React Native.
 
 &nbsp;
