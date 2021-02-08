@@ -16,6 +16,8 @@ Hello, I am a front-end developer, I work mainly with Reactjs and TypeScript, bu
 
 ⭐️ CSS
 
+⭐️ Node.js
+
 ⭐️ React Native
 
 &nbsp;
