@@ -8,14 +8,13 @@ Hello, I am a front-end developer, I work mainly with Reactjs and TypeScript, bu
 &nbsp;
 ### ❤️ Preferred Technologies
 
-⭐️ JavaScript/TypeScript
-
-⭐️ ReactJS
-
 ⭐️ HTML
 
 ⭐️ CSS
 
+⭐️ JavaScript/TypeScript
+
+⭐️ ReactJS
 
 &nbsp;
 ### 🔭 Reach me
