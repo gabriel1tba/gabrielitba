@@ -2,7 +2,7 @@
 
 ### 💬 About
 
-Hello, I am a front-end developer, I work mainly with Reactjs and TypeScript, but I also have knowledge in React Native and node backend. I am passionate about technologies, I am always learning new concepts and I always appreciate new challenges.
+Hello, I am a front-end developer, I work mainly with Reactjs/Next and TypeScript, but I also have knowledge in React Native and node backend. I am passionate about technologies, I am always learning new concepts and I always appreciate new challenges.
 
 &nbsp;
 &nbsp;
