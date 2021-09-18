@@ -17,7 +17,7 @@ Hello, I am a front-end developer, I work mainly with Reactjs/Next and TypeScrip
 ⭐️ ReactJS
 
 &nbsp;
-### 🔭 Reach me
+### 🔭 Where to find me
 
 &nbsp;
 [![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrielferreirajs)](https://www.linkedin.com/in/gabrielferreirajs/)
