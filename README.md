@@ -1,18 +1,22 @@
 ## Olá, pessoal, sejam ben vindos!🌏
+&nbsp;
 
 - :sparkles: Sou Front-end JavaScript (mas quase sempre utilizo TypeScript)
 - :sparkles: Trabalho principalmente com React/Next
 - :sparkles: Gosto bastante de estudar sobre Vuejs, React Native e Node
+&nbsp;
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-&nbsp;
 ### Entrem em contato por aqui ✌
 &nbsp;
 [![Linkedin URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrielferreirajs)](https://www.linkedin.com/in/gabrielferreirajs/)
