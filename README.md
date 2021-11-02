@@ -1,24 +1,19 @@
-## Hello there, I'm Gabriel Ferreira 🌏
+## Olá, pessoal, sejam ben vindos!🌏
 
-### 💬 About
+- :sparkles: Sou Front-end JavaScript (mas quase sempre utilizo TypeScript)
+- :sparkles: Trabalho principalmente com React/Next
+- :sparkles: Gosto bastante de estudar sobre Vuejs, React Native e Node
 
-Hello, I am a front-end developer, I work mainly with Reactjs/Next and TypeScript, but I also have knowledge in React Native and node backend. I am passionate about technologies, I am always learning new concepts and I always appreciate new challenges.
-
-&nbsp;
-&nbsp;
-### ❤️ Preferred Technologies
-
-⭐️ HTML
-
-⭐️ CSS
-
-⭐️ JavaScript/TypeScript
-
-⭐️ ReactJS
+<p>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
+</p>
 
 &nbsp;
-### 🔭 Where to find me
-
+### Entrem em contato por aqui ✌
 &nbsp;
 [![Linkedin URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrielferreirajs)](https://www.linkedin.com/in/gabrielferreirajs/)
 [![Email](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Agabriel.ferreira.itba%40gmail.com)](mailto:gabriel.ferreira.itba@gmail.com)
