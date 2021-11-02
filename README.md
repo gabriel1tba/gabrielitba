@@ -1,8 +1,9 @@
 ## Olá, pessoal, sejam ben vindos!🌏
 
-- :sparkles: Sou Front-end JavaScript (mas quase sempre utilizo TypeScript)
-- :sparkles: Trabalho principalmente com React/Next
+- :sparkles: Sou Front-end JavaScript/Typescript
+- :sparkles: Trabalho principalmente com React e Next
 - :sparkles: Gosto bastante de estudar sobre Vuejs, React Native e Node
+- :sparkles: 
 \
 &nbsp;
 \
