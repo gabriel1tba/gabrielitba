@@ -6,6 +6,8 @@
 - :sparkles: Gosto bastante de estudar sobre Vuejs, React Native e Node
 &nbsp;
 
+&nbsp;
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,7 +20,6 @@
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-&nbsp;
 
 
 ### Entrem em contato por aqui ✌
