@@ -3,7 +3,7 @@
 - :sparkles: Sou Front-end JavaScript/Typescript
 - :sparkles: Trabalho principalmente com React e Next
 - :sparkles: Gosto bastante de estudar sobre Vuejs, React Native e Node
-- :sparkles: 
+- :sparkles: Me interesso/gosto de conversar sobre temas de programação em geral
 \
 &nbsp;
 \
