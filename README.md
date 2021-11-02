@@ -1,4 +1,4 @@
-## Olá, seja bem vindo.
+## Olá, seja bem vindo/a
 
 - **Sou Front-end em JavaScript/Typescript**
 - **Me interesso/gosto de conversar sobre temas de programação em geral**
