@@ -1,4 +1,4 @@
-## Olá, pessoal, sejam ben vindos!🌏
+## Olá, seja bem vindo.
 
 - :sparkles: Sou Front-end JavaScript/Typescript
 - :sparkles: Me interesso/gosto de conversar sobre temas de programação em geral
