@@ -5,8 +5,7 @@
 - :sparkles: Trabalho principalmente com React/Next
 - :sparkles: Gosto bastante de estudar sobre Vuejs, React Native e Node
 &nbsp;
-
-
+&nbsp;
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
