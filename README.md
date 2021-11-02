@@ -4,7 +4,9 @@
 - :sparkles: Sou Front-end JavaScript (mas quase sempre utilizo TypeScript)
 - :sparkles: Trabalho principalmente com React/Next
 - :sparkles: Gosto bastante de estudar sobre Vuejs, React Native e Node
+\
 &nbsp;
+\
 &nbsp;
 
 <p>
