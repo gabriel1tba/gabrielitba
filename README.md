@@ -1,8 +1,8 @@
 ## Olá, seja bem-vindo(a)
 
 - **Sou Front-end em JavaScript/Typescript**
-- **Me interesso/gosto de conversar sobre temas de tecnologia em geral**
 - **Trabalho principalmente com React e Next**
+- **Me interesso/gosto de conversar sobre temas de tecnologia em geral**
 - **Gosto bastante de estudar sobre Vuejs, React Native e Node**
 \
 &nbsp;
